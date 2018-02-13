@@ -1,1 +1,7 @@
 /.idea/workspace.xml
+.env
+/.idea/
+/public/css/app.css
+/public/js/app.js
+/vendor/
+/node_modules/
